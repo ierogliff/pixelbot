@@ -19,7 +19,7 @@ function PixelBot() {
 
     PixelBot.url = {
         script: 'https://github.com/ierogliff/pixelbot/raw/master/PixelBot.user.js',
-        image: 'https://github.com/ierogliff/pixelbot/raw/master/1.bmp'
+        image: 'https://github.com/ierogliff/pixelbot/raw/master/1.png'
     };
 
     PixelBot.urlGen = {
