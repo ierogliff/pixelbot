@@ -18,8 +18,8 @@ function PixelBot() {
     }
 
     PixelBot.url = {
-        script: 'https://github.com/igoose1/pixelbot/raw/master/PixelBot.user.js',
-        image: 'https://vk.com/doc79156813_479101956?hash=b8f59e558fbfa66182&dl=309729cd2fa1472b05'
+        script: 'https://github.com/ierogliff/pixelbot/raw/master/PixelBot.user.js',
+        image: 'https://github.com/ierogliff/pixelbot/raw/master/1.bmp'
     };
 
     PixelBot.urlGen = {
